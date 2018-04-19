@@ -1,0 +1,11 @@
+name = "The Nexus"
+description = "The hub of all admin access"
+
+[exits]
+  # one exit leading west to Rinse's Office.
+  [exits.west]
+  room_id = 2
+
+script = '''
+  print("ooh a script!")
+'''
