@@ -1,0 +1,11 @@
+name = "Rinse's Office"
+description = "A private place for Rinse."
+
+[exits]
+  # one exit leading east to The Nexus.
+  [exits.east]
+  room_id = 1
+
+script = '''
+  print("Someone entered rinse's office!")
+'''
