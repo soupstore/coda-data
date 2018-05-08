@@ -6,6 +6,9 @@ description = "The hub of all admin access"
   [exits.west]
   room_id = 2
 
+  [exits.east]
+  room_id = 3
+
 script = '''
   print("ooh a script!")
 '''

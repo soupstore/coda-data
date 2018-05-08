@@ -1,0 +1,11 @@
+name = "Test Room"
+description = "This room should be added to the sim"
+
+[exits]
+  # one exit leading east to The Nexus.
+  [exits.west]
+  room_id = 1
+
+script = '''
+  print("Someone entered rinse's office!")
+'''

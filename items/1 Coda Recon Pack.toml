@@ -1,0 +1,5 @@
+name = "Coda Recon Pack"
+aliases = ["backpack", "pack", "recon pack", "coda recon pack", "coda recon"]
+rigslot = "backpack"
+
+[container]
