@@ -5,7 +5,3 @@ description = "A private place for Rinse."
   # one exit leading east to The Nexus.
   [exits.east]
   room_id = 1
-
-script = '''
-  print("Someone entered rinse's office!")
-'''

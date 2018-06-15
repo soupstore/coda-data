@@ -1,0 +1,11 @@
+name = "Arrival Ramp"
+description = '''Sirens wail around you, the sound reverberating around your skull. You feel like you've gone ten rounds in the ring and celebrated with 3 bottles of vodka. You lay against something that feels familiar, its firm, cold and textured. You attempt to get to your feet, grabbing onto a nearby rail for support, but your legs fail you.
+
+"Whoa whoa whoa! Not so fast, you need to give yourself time to recover."
+
+You look up to see a human-shaped blur looming above you. As your vision returns, you recognise the sight of boots, khaki trousers and a lab coat.
+'''
+
+[exits]
+  [exits.north]
+  room_id = 2

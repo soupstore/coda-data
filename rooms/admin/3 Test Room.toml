@@ -5,7 +5,3 @@ description = "This room should be added to the sim"
   # one exit leading east to The Nexus.
   [exits.west]
   room_id = 1
-
-script = '''
-  print("Someone entered rinse's office!")
-'''

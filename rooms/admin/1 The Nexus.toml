@@ -1,6 +1,17 @@
 name = "The Nexus"
 description = "The hub of all admin access"
 
+script = '''
+function onEnter(characterID)
+  print("someone has entered me")
+  narrate(characterID, "hello")
+end
+
+function onExit()
+  print("someone has left me")
+end
+'''
+
 [exits]
   # one exit leading west to Rinse's Office.
   [exits.west]
@@ -8,7 +19,3 @@ description = "The hub of all admin access"
 
   [exits.east]
   room_id = 3
-
-script = '''
-  print("ooh a script!")
-'''
