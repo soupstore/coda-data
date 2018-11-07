@@ -1,0 +1,5 @@
+name = "Research Stations"
+region = "Gate Research"
+
+[exits.west]
+room_id = 2 # Entrance

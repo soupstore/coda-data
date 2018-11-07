@@ -1,0 +1,7 @@
+name = "South High Street"
+region = "Arrival City"
+
+[exits.north]
+room_id = 6 # city centre
+[exits.south]
+room_id = 2 # gate research

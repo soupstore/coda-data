@@ -1,0 +1,6 @@
+name = "Arrival Ramp"
+region = "Gate Research"
+description = ""
+
+[exits.north]
+room_id = 2 # Entrance

@@ -1,0 +1,7 @@
+name = "City Centre"
+region = "Arrival City"
+
+[exits.north]
+room_id = 7
+[exits.south]
+room_id = 5 # south high street

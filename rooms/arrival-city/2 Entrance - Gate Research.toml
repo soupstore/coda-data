@@ -1,0 +1,12 @@
+name = "Entrance"
+region = "Gate Research"
+description = ""
+
+[exits.west]
+room_id = 3 # Security Stations
+[exits.east]
+room_id = 4 # Research Stations
+[exits.south]
+room_id = 1 # Arrival Ramp
+[exits.north]
+room_id = 5 # South High Street

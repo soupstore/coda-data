@@ -1,0 +1,5 @@
+name = "Security Stations"
+region = "Gate Research"
+
+[exits.east]
+room_id = 2 # Entrance
