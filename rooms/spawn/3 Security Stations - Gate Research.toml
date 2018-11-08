@@ -1,0 +1,7 @@
+name = "Security Stations"
+region = "Gate Research"
+description = "Spawn only"
+
+[exits.east]
+room_id = 2
+world_id = "arrival-city"

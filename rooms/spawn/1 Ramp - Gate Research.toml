@@ -1,0 +1,12 @@
+name = "Arrival Ramp"
+region = "Gate Research"
+description = """
+Darkness, tingly all over.
+
+You hear a booming voice, echoing all around you. "Gate active, incoming arrival!"
+
+Slowly, you find your vision returning.
+"""
+
+[exits.north]
+room_id = 2 # Entrance
